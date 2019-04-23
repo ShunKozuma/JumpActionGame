@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Apr 22 15:58:37 JST 2019
+7.path=font.png
+2.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+5.set=ASSET
+0.path=star.png
+2.baseType=DIRECTORY
+3.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=resultback.png
+4.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=uma.png
+5.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.set=ASSET
+3.path=step.png
+6.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=back.png
+7.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=font.fnt
+0.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=ufo.png
+1.base=/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+0.set=ASSET
