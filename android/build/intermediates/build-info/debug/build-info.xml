@@ -5,30 +5,50 @@
     build-mode="FULL"
     density="xhdpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
     plugin-version="3.2.0"
-    timestamp="1555992526324"
+    timestamp="1556238282057"
     token="-6343527100670994838"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3942" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="132" />
+        duration="24" />
     <task
         name="verifier"
-        duration="49" />
+        duration="16" />
 
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -37,67 +57,45 @@
         location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/instant-run-apk/debug/android-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1555992526324"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1556238282057"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/s-kozuma/AndroidStudioProjects/JumpActionGame/android/build/intermediates/instant-run-apk/debug/android-debug.apk"

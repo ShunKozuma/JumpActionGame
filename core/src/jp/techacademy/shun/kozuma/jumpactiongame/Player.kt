@@ -5,8 +5,8 @@ import com.badlogic.gdx.graphics.Texture
 class Player(texture: Texture, srcX: Int, srcY: Int, srcWidth: Int, srcHeight: Int): GameObject(texture, srcX, srcY, srcWidth, srcHeight) {
     companion object {
         //横幅、高さ
-        val PLAYER_WIDTH = 1.0f
-        val PLAYER_HEIGHT = 1.0f
+        val PLAYER_WIDTH = 1.5f
+        val PLAYER_HEIGHT = 1.5f
 
         //状態（ジャンプ中、落ちている最中）
         val PLAYER_STATE_JUMP = 0
